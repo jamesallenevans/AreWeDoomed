@@ -1,9 +1,9 @@
 # AreWeDoomed
 GitHub Repo for the UChicago, Spring 2021 course *Are We Doomed? Confronting the End of the World*
 
-Questions: Every week students will post one question of less than 150 words, addressed to our speaker, to our course GitHub site (accessible through Canvas) by Wednesday @ midnight immediately prior to our class session. By 2pm Thursday, each student will up-vote (“thumbs up”) what they think are the five most interesting questions for that session. Some of the top voted questions will be asked by students to the speakers during class.
+Questions: Every week students will post one question [here](https://github.com/jamesallenevans/AreWeDoomed/issues/1) of less than 150 words, addressed to our speaker, to our course GitHub site (accessible through Canvas) by Wednesday @ midnight immediately prior to our class session. These questions may take up the same angle as developed further in your weekly memo, described below. By 2pm Thursday, each student will up-vote (“thumbs up”) what they think are the five most interesting questions for that session. Some of the top voted questions will be asked by students to the speakers during class.
 
-Memos: Every week students will post one memo in response to the readings and associated topic. The memo should be 300–500 words + 1 visual element (e.g., figure, image, hand-drawn picture, art, etc. that complements or is suggestive of your argument). The memo should be tagged with one or more of the following:
+Memos: Every week students will post one memo [here](https://github.com/jamesallenevans/AreWeDoomed/issues/2) in response to the readings and associated topic. The memo should be 300–500 words + 1 visual element (e.g., figure, image, hand-drawn picture, art, etc. that complements or is suggestive of your argument). The memo should be tagged with one or more of the following:
 
 #origin: How did we get here? Reflection on the historical, technological, political and other origins of this existential crisis that help us better understand and place it in context. 
 #risk: Qualitative and quantitative analysis of the risk associated with this challenge. This risk analysis could be locally in a particular place and time, or globally over a much longer period, in isolation or in relation to other existential challenges (e.g., the environmental devastation that follows nuclear fallout). 
